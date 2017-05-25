@@ -12,18 +12,18 @@ With your partner, in words both of you will understand 6 months from now, answe
 
 <!-- Answer Here -->
 
-From the perspective of a developer, name some basic strengths of using cookies and some weaknesses.
+> From the perspective of a developer, name some basic strengths of using cookies and some weaknesses.
 
 <!-- Answer Here -->
 
-What is the difference between a session cookie and a persistant cookie?
+> What is the difference between a session cookie and a persistant cookie?
 
 <!-- Answer Here -->
 
-What is your opinion of the same-origin policy?  Support your opinion with some evidence.
+> What is your opinion of the same-origin policy?  Support your opinion with some evidence.
 
 <!-- Answer Here -->
 
-Based on what you know, how would you explain CORS?
+> Based on what you know, how would you explain CORS?
 
 <!-- Answer Here -->
